@@ -1,0 +1,8 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore LaTeX ancillary files	
+.gz
+.log
+.aux
+.tex
