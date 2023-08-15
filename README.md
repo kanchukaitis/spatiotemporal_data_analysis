@@ -9,12 +9,22 @@ The major outcome for the class for each student will be a new and independent a
 ## General Schedule
 
 August 23 to August 31 - Introduction to Python and Linear Algebra
+
 August 31 to September 12 - Variance, covariance, autocovariance, and correlation
+
 September 12 to September 21 - Introduction to Empirical Orthogonal Functions
+
 September 21 to September 28 - EOF significance, meaningfulness, and interpretation
+
 September 28 to October 10 - EOF interpretation and orthogonal rotation
+
 October 17 to October 19 - Analysis of coupled fields
+
 October 19 to October 26 - Field correlation, compositing, field significance, and false discovery
+
 October 31 to November 7 - Spectral analysis 
+
 November 9 to November 14 - Frameworks for spatiotemporal data analysis
+
 November 14 to December 5 - Student project work and presentations
+
