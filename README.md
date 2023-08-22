@@ -38,5 +38,5 @@ Here are the basic steps:
 * From the newly installed Conda prompt, install ipykernel or call the install line from Python directly
 * Install Juypter Notebooks: https://jupyter.org/install
 * Install Visual Studio Code itself (https://code.visualstudio.com/download) for your system
-* Within Visual Studio Code, install the Python extensions (from Microsoft, )
+* Within Visual Studio Code, install the Python extensions (from Microsoft)
 * Test your system 
