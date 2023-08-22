@@ -7,7 +7,6 @@ This course is designed as a graduate level class in a workshop format to give s
 
 The major outcome for the class for each student will be a new and independent analysis of a substantial space-time dataset, a formal manuscript describing the motivation, methods, and results of this analysis, and a professional oral presentation.  Students are encouraged to bring with them or seek out data relevant to their research to use for their final project.  Ideally, students' final projects will provide the material for a thesis chapter and/or peer-reviewed article. 
 
-***
 ## General Schedule
 
 August 23 to August 31 - Introduction to Python and Linear Algebra
@@ -30,7 +29,6 @@ November 9 to November 14 - Frameworks for spatiotemporal data analysis
 
 November 14 to December 5 - Student project work and presentations
 
-***
 ### Recommended Software Installation (Tentative)
 
 [This Youtube video](https://www.youtube.com/watch?v=h1sAzPojKMg&ab_channel=VisualStudioCode) from Visual Studio Code (the integrated coding environment we'll use in this class) can get you up and running pretty quickly . They show installation in Windows, so macos will be slightly different.  We'll also go this **live** in class on August 24th. 
