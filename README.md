@@ -34,7 +34,7 @@ November 14 to December 5 - Student project work and presentations
 [This Youtube video](https://www.youtube.com/watch?v=h1sAzPojKMg&ab_channel=VisualStudioCode) from Visual Studio Code (the integrated coding environment we'll use in this class) can get you up and running pretty quickly . They show installation in Windows, so macos will be slightly different.  We'll also go this **live** in class on August 24th. 
 
 Here are the basic steps:
-* Install Python using Miniconda (recommended for this class: https://docs.conda.io/en/main/miniconda.html) or the full individual Anaconda distribution (https://www.anaconda.com/download) for your operating system.  Both are free. 
+* Install Python using Miniconda (recommended for this class: https://docs.conda.io/en/main/miniconda.html) or the full individual Anaconda distribution (https://www.anaconda.com/download) for your operating system.  Both are free.  **Note that if you have an older operating system, the current versions of Miniconda might not work on your system.** 
 * From the newly installed Conda prompt, from within Python, or from your terminal, [install iPython](https://ipython.readthedocs.io/en/stable/install/install.html#quick-install).
 * Install Juypter Notebooks: https://jupyter.org/install
 * Install Visual Studio Code itself (https://code.visualstudio.com/download) for your system
