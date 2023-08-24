@@ -35,7 +35,7 @@ November 14 to December 5 - Student project work and presentations
 
 Here are the basic steps:
 * Install Python using Miniconda (recommended for this class: https://docs.conda.io/en/main/miniconda.html) or the full individual Anaconda distribution (https://www.anaconda.com/download) for your operating system.  Both are free. 
-* From the newly installed Conda prompt, install ipykernel or call the install line from Python directly
+* From the newly installed Conda prompt, from within Python, or from your terminal, [install iPython](https://ipython.readthedocs.io/en/stable/install/install.html#quick-install).
 * Install Juypter Notebooks: https://jupyter.org/install
 * Install Visual Studio Code itself (https://code.visualstudio.com/download) for your system
 * Within Visual Studio Code, install the Python extensions (from Microsoft)
