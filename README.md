@@ -9,7 +9,7 @@ The major outcome for the class for each student will be a new and independent a
 
 ## General Schedule
 
-August 23 to August 31 - [Introduction to Python](https://github.com/kanchukaitis/spatiotemporal_data_analysis/tree/819d6db721c34aa39680e7ff4f72a57fe6611cb9/01_introduction_to_python) and Linear Algebra
+August 23 to August 31 - [Introduction to Python](https://github.com/kanchukaitis/spatiotemporal_data_analysis/tree/819d6db721c34aa39680e7ff4f72a57fe6611cb9/01_introduction_to_python) and [Linear Algebra](https://github.com/kanchukaitis/spatiotemporal_data_analysis/tree/main/02_linear_algebra)
 
 August 31 to September 12 - Variance, covariance, autocovariance, and correlation
 
