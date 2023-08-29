@@ -29,9 +29,9 @@ November 9 to November 14 - Frameworks for spatiotemporal data analysis
 
 November 14 to December 5 - Student project work and presentations
 
-## Recommended Software Installation (Tentative)
+## Recommended Software Installation 
 
-[This Youtube video](https://www.youtube.com/watch?v=h1sAzPojKMg&ab_channel=VisualStudioCode) from Visual Studio Code (the integrated coding environment we'll use in this class) can get you up and running pretty quickly . They show installation in Windows, so macos will be slightly different.  We'll also go this **live** in class on August 24th. 
+[This Youtube video](https://www.youtube.com/watch?v=h1sAzPojKMg&ab_channel=VisualStudioCode) from Visual Studio Code (the integrated coding environment we'll use in this class) can get you up and running pretty quickly . They show installation in Windows, so macOs will be slightly different.  We'll also go this **live** in class on August 24th. 
 
 Here are the basic steps:
 * Install Python using Miniconda (recommended for this class: https://docs.conda.io/en/main/miniconda.html) or the full individual Anaconda distribution (https://www.anaconda.com/download) for your operating system.  Both are free.  **Note that if you have an older operating system, the current versions of Miniconda might not work on your system.** 
