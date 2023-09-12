@@ -2,12 +2,10 @@
 .DS_store
 
 # Ignore LaTeX ancillary files	
-.gz
-.log
-.aux
-.tex
-01_introduction_to_python/HadISST_sst.nc
 *.aux
 *.log
 *.gz
 *.tex
+
+# Ignore large data files
+01_introduction_to_python/HadISST_sst.nc
