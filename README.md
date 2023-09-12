@@ -45,6 +45,6 @@ Here are the basic steps:
 
 ## License
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>. 
+This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc/3.0/us/">Creative Commons Attribution-NonCommercial 3.0 License (CC BY-NC 3.0 US)</a>. 
 
-You are welcome to use any of this material, as long as it is not for commercial purposes. 
+You are welcome to use any of this material, so long as it is for non-commercial purposes.
