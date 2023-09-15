@@ -11,11 +11,11 @@ The course was inspired by and initially based on an objective analysis/spatiote
  
 ## General Schedule
 
-August 23 to August 31 - [Introduction to Python](https://github.com/kanchukaitis/spatiotemporal_data_analysis/tree/819d6db721c34aa39680e7ff4f72a57fe6611cb9/01_introduction_to_python), [NumPy](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/introduction_to_numpy.ipynb), [Pandas](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/introduction_to_pandas_part_1.ipynb), [Matplotlib](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/introduction_to_matplotlib_part_1.ipynb) and [Linear Algebra](https://github.com/kanchukaitis/spatiotemporal_data_analysis/tree/main/02_linear_algebra)
+August 23 to August 31 - [Introduction to Python](https://github.com/kanchukaitis/spatiotemporal_data_analysis/tree/819d6db721c34aa39680e7ff4f72a57fe6611cb9/01_introduction_to_python), [NumPy](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/introduction_to_numpy.ipynb), [Pandas](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/introduction_to_pandas_part_1.ipynb), Matplotlib ([Part 1](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/introduction_to_matplotlib_part_1.ipynb) and [Part2](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/introduction_to_matplotlib_part_2.ipynb)) and [Linear Algebra](https://github.com/kanchukaitis/spatiotemporal_data_analysis/tree/main/02_linear_algebra)
 
 August 31 to September 12 - Variance, covariance, and correlation -- [Part 1](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/03_covariance/covariance_correlation.ipynb) and [Part 2](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/03_covariance/covariance_correlation_part2.ipynb) -- plus an [introduction to `xarray`](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/introduction_to_xarray.ipynb)
 
-September 14 to September 21 - Introduction to Empirical Orthogonal Functions -- Part 1 and Part 2 -- plus mapping with Matplotlib and Cartopy
+September 14 to September 21 - Introduction to Empirical Orthogonal Functions -- Part 1 and Part 2 -- plus [mapping with Matplotlib and Cartopy](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/introduction_to_matplotlib_part_2.ipynb)
 
 September 21 to September 28 - EOF significance, meaningfulness, and interpretation
 
