@@ -9,3 +9,5 @@
 
 # Ignore large data files
 01_introduction_to_python/HadISST_sst.nc
+01_introduction_to_python/multipanel.pdf
+01_introduction_to_python/multipanel.png
