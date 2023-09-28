@@ -17,7 +17,7 @@ August 31 to September 12 - Variance, covariance, and correlation -- [Part 1](ht
 
 September 14 to September 21 - Introduction to Empirical Orthogonal Functions -- [Part 1](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/04_eofs/eof_with_iris.ipynb) and Part 2 -- plus [mapping with `Matplotlib` and `Cartopy`](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/introduction_to_matplotlib_part_2.ipynb)
 
-September 21 to September 28 - EOF significance, meaningfulness, and interpretation, with short lectures on [missingness](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/missing_data.ipynb) and [randomness](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/random_arrays.ipynb).
+September 21 to September 28 - [EOF significance](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/05_significance/eof_significance.ipynb), meaningfulness, and interpretation, with short lectures on [missingness](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/missing_data.ipynb) and [randomness](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/random_arrays.ipynb).
 
 September 28 to October 10 - EOF interpretation and (orthogonal) rotation
 
