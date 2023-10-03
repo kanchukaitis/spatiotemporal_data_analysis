@@ -19,7 +19,7 @@ September 14 to September 21 - Introduction to Empirical Orthogonal Functions --
 
 September 21 to September 28 - [EOF significance](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/05_significance/eof_significance.ipynb), meaningfulness, and interpretation, with short lectures on [missingness](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/missing_data.ipynb) and [randomness](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/random_arrays.ipynb).
 
-September 28 to October 10 - EOF interpretation and (orthogonal) rotation
+September 28 to October 10 - EOF interpretation and [orthogonal rotation](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/06_rotation/eof_rotation_example.ipynb)
 
 October 17 to October 19 - Analysis of coupled fields
 
