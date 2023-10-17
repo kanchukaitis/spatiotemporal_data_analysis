@@ -21,9 +21,7 @@ September 21 to September 28 - [EOF significance](https://github.com/kanchukaiti
 
 September 28 to October 10 - EOF interpretation and [orthogonal rotation](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/06_rotation/eof_rotation_example.ipynb)
 
-October 17 to October 19 - Analysis of coupled fields
-
-October 19 to October 26 - Field correlation, compositing, field significance, and false discovery
+October 17 to October 26 - Analysis of coupled fields, [field correlation](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/07_correlation_compositing/field_correlation_example.ipynb), compositing, field significance, and false discovery
 
 October 31 to November 7 - Spectral analysis 
 
