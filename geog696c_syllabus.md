@@ -1,8 +1,8 @@
 <div class="center">
 
-GEOG 696C Physical Geography  
-Spatiotemporal Data Analysis  
-Autumn 2023
+# GEOG 696C Physical Geography  
+# Spatiotemporal Data Analysis  
+### Autumn 2023
 
 </div>
 
