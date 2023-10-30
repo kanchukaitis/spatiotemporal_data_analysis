@@ -176,6 +176,7 @@ respectively. Please be aware of deadlines for requesting these grades.
 Requests for reconsideration of a grade received on a paper, project, or
 exam must be made to the instructor no later than 1 week after the
 assignment is made available to be returned to the student.  
+
 There is no final exam for this course.
 
 **Late work** Assignments that are not completed or handed in on time,
@@ -260,12 +261,13 @@ work/exercises must be the product of independent effort unless
 otherwise instructed. Students are expected to adhere to the UA Code of
 Academic Integrity as described in the UA General Catalog. See
 <https://deanofstudents.arizona.edu/student-rights-responsibilities/academic-integrity>.  
+
 The University Libraries have some excellent tips for avoiding
 plagiarism, available at:  <https://lib.arizona.edu/research/citing/plagiarism>.  
   
 Selling class notes, lectures, assignments, or other course materials to
 other students or to a third party for resale is not permitted without
-the instructorÕs express written consent. Violations to this and other
+the instructor's express written consent. Violations to this and other
 course rules are subject to the Code of Academic Integrity and may
 result in course sanctions. Additionally, students who use D2L or UA
 e-mail to sell or buy these copyrighted materials are subject to Code of
@@ -381,7 +383,6 @@ Springs</em></p>
 <tr class="even">
 <td style="text-align: center;">Thursday, September 21</td>
 <td style="text-align: center;"><div class="description">
-<p>-0.4em</p>
 <p>Empirical orthogonal functions continued</p>
 <p><em>Homework #3</em> assigned (Empirical Orthogonal Functions II)</p>
 </div></td>
@@ -429,7 +430,6 @@ interpretation)</p>
 <tr class="even">
 <td style="text-align: center;">Thursday, October 12</td>
 <td style="text-align: center;"><div class="description">
-<p>-0.4em</p>
 <p><em>No class - Kevin at University of Minnesota</em></p>
 </div></td>
 </tr>
