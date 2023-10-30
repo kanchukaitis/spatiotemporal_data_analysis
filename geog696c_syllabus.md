@@ -8,8 +8,7 @@ This course is designed as a graduate level class in a *workshop* format to give
 
 <div class="center">
 
-This syllabus and course schedule are subject to change.  
-Please check regularly for updated information on D2L
+This syllabus and course schedule are subject to change. Please check regularly for updated information on D2L and here on Github.
 
 </div>
 
