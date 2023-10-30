@@ -1,10 +1,6 @@
 <div class="center">
-<style>h2,h3,h4 { border-bottom: 0; } </style>
 
-
-# GEOG 696C Physical Geography  
-## Spatiotemporal Data Analysis  
-### Autumn 2023
+# Spatiotemporal Data Analysis  
 
 </div>
 
