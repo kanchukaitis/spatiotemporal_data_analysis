@@ -158,7 +158,7 @@ December 5th)***.
 </div>
 
 **Grade polices and Letter Grade Distribution:**  
- University policies regarding grades and grading systems are available
+University policies regarding grades and grading systems are available
 at:  <https://catalog.arizona.edu/policy/grades-and-grading-system>  
 
 Grade distribution for this course:  
