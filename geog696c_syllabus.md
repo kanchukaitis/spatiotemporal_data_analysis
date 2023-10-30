@@ -201,8 +201,7 @@ The UA policy regarding absences for any sincerely held religious
 belief, observance or practice will be accommodated where reasonable:
 <http://policy.arizona.edu/human-resources/religious-accommodation-policy>.
 Absences pre-approved by the UA Dean of Students (or the dean’s
-designee) will be honored.  
-Active participation in the course is vital to the learning process. As
+designee) will be honored.  Active participation in the course is vital to the learning process. As
 such, attendance is strongly encouraged at all meetings of the class.
 
 **Life challenges** 
