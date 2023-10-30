@@ -298,7 +298,7 @@ Information contained in the course syllabus, other than the grade and
 absence policy, may be subject to change with advance notice, as deemed
 appropriate by the instructor.
 
-**Course Schedule**
+## Course Schedule
 
 <table>
 <thead>
