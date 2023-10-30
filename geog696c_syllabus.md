@@ -449,7 +449,6 @@ Significance, Meaning)</p>
 <tr class="odd">
 <td style="text-align: center;">Tuesday, October 3</td>
 <td style="text-align: center;"><div class="description">
-<p>-0.4em</p>
 <p>Empirical orthogonal functions (rotation)</p>
 <p><strong>Prework #4</strong> due at start of class (Orthogonal
 Rotation and Interpretation)</p>
@@ -459,7 +458,6 @@ Rotation and Interpretation)</p>
 <tr class="even">
 <td style="text-align: center;">Thursday, October 5</td>
 <td style="text-align: center;"><div class="description">
-<p>-0.4em</p>
 <p><em>No class</em></p>
 </div></td>
 </tr>
