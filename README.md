@@ -23,7 +23,7 @@ September 28 to October 10 - EOF interpretation and [orthogonal rotation](https:
 
 October 17 to October 26 - [Analysis of coupled fields](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/08_mca/mca_example.ipynb), [field correlation](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/07_correlation_compositing/field_correlation_example.ipynb), an [alternative field correlation approach](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/07_correlation_compositing/alternative_field_correlation.ipynb) if you need local significance levels, [compositing](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/07_correlation_compositing/composite_from_list.ipynb), field significance, and false discovery
 
-October 31 to November 7 - Spectral analysis 
+October 31 to November 7 - Spectral analysis ([simple periodic signals and auto-correlation](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/10_spectral/cycles_and_autocorrelation.ipynb))
 
 November 9 to November 14 - Frameworks for spatiotemporal data analysis
 
