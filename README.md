@@ -49,4 +49,4 @@ You are welcome to use any of this material, so long as it is for non-commercial
 
 ## Contact
 
-Did you find this course material useful?  Want to share ideas?  Feel free to contact me at [kanchukaitis@arizona.edu](mailto:kanchukaitis@arizona.edu:)
+Did you find this course material useful?  Want to share ideas?  Feel free to contact me at [kanchukaitis@arizona.edu](mailto:kanchukaitis@arizona.edu)
