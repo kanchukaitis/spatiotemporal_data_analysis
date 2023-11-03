@@ -23,7 +23,7 @@ September 28 to October 10 - EOF interpretation and [orthogonal rotation](https:
 
 October 17 to October 26 - [Analysis of coupled fields](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/08_mca/mca_example.ipynb), [field correlation](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/07_correlation_compositing/field_correlation_example.ipynb), an [alternative field correlation approach](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/07_correlation_compositing/alternative_field_correlation.ipynb) if you need local significance levels, [compositing](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/07_correlation_compositing/composite_from_list.ipynb), and [field significance and false discovery](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/09_field_significance/field_significance_false_discovery.ipynb).
 
-October 31 to November 7 - Spectral analysis ([simple periodic signals and auto-correlation](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/10_spectral/cycles_and_autocorrelation.ipynb))
+October 31 to November 7 - Spectral analysis, [simple periodic signals and auto-correlation](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/10_spectral/cycles_and_autocorrelation.ipynb), and [singular spectrum analysis](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/10_spectral/ssa_demonstration.ipynb)
 
 November 9 to November 14 - Frameworks for spatiotemporal data analysis
 
@@ -46,3 +46,7 @@ Here are the basic steps:
 This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc/3.0/us/">Creative Commons Attribution-NonCommercial 3.0 License (CC BY-NC 3.0 US)</a>. 
 
 You are welcome to use any of this material, so long as it is for non-commercial purposes.
+
+## Contact
+
+Did you find this course material useful?  Want to share ideas?  Feel free to contact me at [kanchukaitis@arizona.edu](mailto:kanchukaitis@arizona.edu:)
