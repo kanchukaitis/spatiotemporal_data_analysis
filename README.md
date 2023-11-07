@@ -41,11 +41,34 @@ Here are the basic steps:
 * Within Visual Studio Code, install the Python extensions (from Microsoft)
 * Test your system 
 
+## Github
+
+Although not required for this course, I encourage you to use the capacity of Git and Github to streamline your access to and use of the notebooks created for this class.  Here are some good places to start:
+
+* Software Carpentry's [Version Control with Git](https://swcarpentry.github.io/git-novice/)
+* Jonathan King's [Github Tutorial](https://jonking93.github.io/Github-Tutorial-Workshop/workshop/welcome)
+
 ## License
 
 This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc/3.0/us/">Creative Commons Attribution-NonCommercial 3.0 License (CC BY-NC 3.0 US)</a>. 
 
 You are welcome to use any of this material, so long as it is for non-commercial purposes.
+
+## Resources
+
+This course is designed to open up the blackbox and reveal the '[big pile of linear algebra](https://xkcd.com/1838/)' inside.  But of course there are many existing packages that can perform the analyses done here and extension of these in additional dimensions and applications.  Here are just a few you might find useful:
+
+* [xeofs](https://github.com/nicrie/xeofs) - being actively developed by Niclas Rieger and as of this writing (November 2023) showing active growth and development of basic EOF methods, multiple field EOF (including MCA), and rotated EOF (see more here: https://xeofs.readthedocs.io/en/latest/) 
+* [Pyleoclimate](https://github.com/LinkedEarth/Pyleoclim_util) - extensive package for the analysis of paleoclimate data, including code for the false discovery rate
+* [Geopandas](https://geopandas.org/en/stable/) - extends Pandas data types to work with vector geospatial data (including Shapefiles) with operations similar to those available in GIS software
+* [fiona](https://fiona.readthedocs.io/en/stable/) - library for reading and writing GIS data formats 
+* [rasterio](https://rasterio.readthedocs.io/en/stable/) - read and write to raster data formats like GeoTIFF
+* [Xee](https://github.com/google/Xee) - is an Xarray extension for Google Earth Engine 
+* [Nitime](https://nipy.org/nitime/index.html) - built for time series analysis in neuroscience, has useful spectral analysis functions like multitaper method
+* [multitaper](https://github.com/gaprieto/multitaper) - multitaper spectral methods in Python ([article here](https://doi.org/10.1785/0220210332))
+* [mcssa](https://github.com/VSainteuf/mcssa) - univariate Monte Carlo singular spectrum analysis in Python
+* [pymssa](https://github.com/kieferk/pymssa) - (multichannel) singular spectrum analysis in Python
+* [GeoCAT](https://geocat.ucar.edu/pages/software.html) - in theory a port of the NCAR Command Language to Python
 
 ## Contact
 
