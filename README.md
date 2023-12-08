@@ -58,6 +58,7 @@ You are welcome to use any of this material, so long as it is for non-commercial
 
 This course is designed to open up the blackbox and reveal the '[big pile of linear algebra](https://xkcd.com/1838/)' inside.  But of course there are many existing packages that can perform the analyses done here and extension of these in additional dimensions and applications.  Here are just a few you might find useful:
 
+* [scikit-learn](https://scikit-learn.org/stable/index.html) - has methods for PCA, CCA, imputation, independent component analysis (ICA), and much much more
 * [xeofs](https://github.com/nicrie/xeofs) - being actively developed by Niclas Rieger and as of this writing (November 2023) showing active growth and development of basic EOF methods, multiple field EOF (including MCA), and rotated EOF (see more here: https://xeofs.readthedocs.io/en/latest/) 
 * [Pyleoclimate](https://github.com/LinkedEarth/Pyleoclim_util) - extensive package for the analysis of paleoclimate data, including code for the false discovery rate
 * [Geopandas](https://geopandas.org/en/stable/) - extends Pandas data types to work with vector geospatial data (including Shapefiles) with operations similar to those available in GIS software
@@ -68,6 +69,7 @@ This course is designed to open up the blackbox and reveal the '[big pile of lin
 * [multitaper](https://github.com/gaprieto/multitaper) - multitaper spectral methods in Python ([article here](https://doi.org/10.1785/0220210332))
 * [mcssa](https://github.com/VSainteuf/mcssa) - univariate Monte Carlo singular spectrum analysis in Python
 * [pymssa](https://github.com/kieferk/pymssa) - (multichannel) singular spectrum analysis in Python
+* [ecopy](https://ecopy.readthedocs.io/en/latest/ordination.html) - includes methods for PCA, Correspondence Analysis, and ordination
 * [GeoCAT](https://geocat.ucar.edu/pages/software.html) - in theory a port of the NCAR Command Language to Python
 
 ## Contact
