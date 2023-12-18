@@ -58,6 +58,7 @@ You are welcome to use any of this material, so long as it is for non-commercial
 
 This course is designed to open up the blackbox and reveal the '[big pile of linear algebra](https://xkcd.com/1838/)' inside.  But of course there are many existing packages that can perform the analyses done here and extension of these in additional dimensions and applications.  Here are just a few you might find useful:
 
+* [cf-array](https://github.com/xarray-contrib/cf-xarray) - a wrapper for using [CF](https://cfconventions.org/cf-conventions/cf-conventions.html) attributes on xarray objects
 * [scikit-learn](https://scikit-learn.org/stable/index.html) - has methods for PCA, CCA, imputation, independent component analysis (ICA), and much much more
 * [xeofs](https://github.com/nicrie/xeofs) - being actively developed by Niclas Rieger and as of this writing (November 2023) showing active growth and development of basic EOF methods, multiple field EOF (including MCA), and rotated EOF (see more here: https://xeofs.readthedocs.io/en/latest/) 
 * [Pyleoclimate](https://github.com/LinkedEarth/Pyleoclim_util) - extensive package for the analysis of paleoclimate data, including code for the false discovery rate
