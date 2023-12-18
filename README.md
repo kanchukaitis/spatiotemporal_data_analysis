@@ -38,7 +38,7 @@ My own programming career starts with FORTRAN and moves to MATLAB, a language I'
 [This Youtube video](https://www.youtube.com/watch?v=h1sAzPojKMg&ab_channel=VisualStudioCode) from Visual Studio Code (the integrated coding environment we'll use in this class) can get you up and running pretty quickly. They show installation in Windows, so macOs will be slightly different.  We'll also go this **live** in class on August 24th. 
 
 Here are the basic steps:
-* Install Python using Miniconda (recommended for this class: https://docs.conda.io/en/main/miniconda.html) or the full individual Anaconda distribution (https://www.anaconda.com/download) for your operating system.  Both are free.  **Note that if you have an older operating system, the current versions of Miniconda might not work on your system.** 
+* Install Python using Miniconda (recommended for this class: https://docs.conda.io/en/main/miniconda.html) or the full individual Anaconda distribution (https://www.anaconda.com/download) for your operating system.  Both are free.  **Note that if you have an older operating system, the current versions of Miniconda might not work on your system.**  A simple comparison of the benefits and drawbacks of Anaconda vs. Miniconda can be found [here](https://www.earthdatascience.org/workshops/setup-earth-analytics-python/setup-git-bash-conda/).
 * From the newly installed Conda prompt, from within Python, or from your terminal, [install iPython](https://ipython.readthedocs.io/en/stable/install/install.html#quick-install).
 * Install Juypter Notebooks: https://jupyter.org/install
 * Install Visual Studio Code itself (https://code.visualstudio.com/download) for your system
