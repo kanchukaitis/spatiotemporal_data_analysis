@@ -50,7 +50,7 @@ Here are the basic steps:
 Although not required for this course, I encourage you to use the capacity of Git and Github to streamline your access to and use of the notebooks created for this class.  Here are some good places to start:
 
 * Software Carpentry's [Version Control with Git](https://swcarpentry.github.io/git-novice/)
-* Jonathan King's [Github Tutorial](https://jonking93.github.io/Github-Tutorial-Workshop/workshop/welcome)
+* Jonathan King's [Github Tutorial](https://jonking93.github.io/Github-Tutorial-Workshop/workshop/welcome). Jonathan took this course as a graduate student. 
 
 ## License
 
