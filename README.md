@@ -54,6 +54,13 @@ Although not strictly required for this course, I encourage you to use the capac
 * Software Carpentry's [Version Control with Git](https://swcarpentry.github.io/git-novice/)
 * Jonathan King's [Github Tutorial](https://jonking93.github.io/Github-Tutorial-Workshop/workshop/welcome). Jonathan took this course as a graduate student. 
 
+## Work in Progress
+
+* Create a virtual environment for the course and provide additional instruction on using conda environments for Python programming and analysis
+* Make course materials available in Google CoLaboratory
+* Update introductory notebooks with additional examples of programming challenges encountered in the class (based on Fall 2023 feedback and observations)
+* Modify and refine Python homework exercises based on Fall 2023 feedback and lessons learned
+
 ## License
 
 This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc/3.0/us/">Creative Commons Attribution-NonCommercial 3.0 License (CC BY-NC 3.0 US)</a>. 
