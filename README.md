@@ -30,10 +30,12 @@ November 9 to November 14 - Frameworks for spatiotemporal data analysis
 November 14 to December 5 - Student project work and presentations
 
 ## Why Python? 
-My own programming career starts with FORTRAN and moves to MATLAB, a language I've now spent almost 25 years using effectively and (mostly) without complaint.   But with an increasing number of jobs for earth and environmental sciences student **outside** academia and the rise of Python as the _de facto_ language of data science, I've decided to migrate this class from MATLAB to Python in 2023.  This will involve some growing pains (for me!), but in the end I hope that the chance to learn spatiotemporal statistics in a language so widely in use across so many fields will be worth the extra trouble.  For earth scientists relatively new to Python, Martin Trauth's book [Python Recipes for Earth Sciences](https://link.springer.com/book/10.1007/978-3-031-07719-7) provides a useful and broad introduction solidly grounded in the types of analyses many of us are familiar with. 
+My own programming career started in FORTRAN and moved to MATLAB, a language I've now spent almost 25 years using effectively and (mostly) without complaint.   But with an increasing number of jobs for earth and environmental sciences student **outside** academia and the rise of Python as the _de facto_ language of data science, I've decided to migrate this class from MATLAB to Python in 2023 (my own research code is also moving, more slowly, in this direction).  This had involved some growing pains (for me!), but in the end I hope that the chance to learn spatiotemporal statistics in a language so widely used across so many fields will be worth the extra trouble for the students who take the class.  For earth scientists relatively new to Python, Martin Trauth's book [Python Recipes for Earth Sciences](https://link.springer.com/book/10.1007/978-3-031-07719-7) provides a useful and broad introduction solidly grounded in the types of analyses many of us are familiar with. 
 
 ## Recommended Software Installation 
-[This page from DataCamp](https://www.datacamp.com/blog/how-to-install-python) contains useful and straightforward information on getting Python installed on both Windows and Mac.  It provides several options for each by I recommend using Anaconda (e.g. look for the sections with titles 'How to Install Python on Windows Using Anaconda' and 'How to Install Python on macOS Using Anaconda').
+[This page from DataCamp](https://www.datacamp.com/blog/how-to-install-python) contains useful and straightforward information on getting Python installed on both Windows and Mac.  It provides several options for each but I recommend using Anaconda (e.g. look for the sections with titles 'How to Install Python on Windows Using Anaconda' and 'How to Install Python on macOS Using Anaconda').
+
+[This page from Notable.io](https://noteable.io/jupyter-notebook/install-jupyter-notebook/) also provides simple instructions for getting up and running in Python and Jupyter notebooks. 
 
 [This Youtube video](https://www.youtube.com/watch?v=h1sAzPojKMg&ab_channel=VisualStudioCode) from Visual Studio Code (the integrated coding environment we'll use in this class) can get you up and running pretty quickly. They show installation in Windows, so macOs will be slightly different.  We'll also go this **live** in class on August 24th. 
 
@@ -47,7 +49,7 @@ Here are the basic steps:
 
 ## Github
 
-Although not required for this course, I encourage you to use the capacity of Git and Github to streamline your access to and use of the notebooks created for this class.  Here are some good places to start:
+Although not strictly required for this course, I encourage you to use the capacity of Git and Github to streamline your access to and use of the notebooks created for this class, as well as advance your own development of reproducible and readily shareable code.  Here are some good places to start:
 
 * Software Carpentry's [Version Control with Git](https://swcarpentry.github.io/git-novice/)
 * Jonathan King's [Github Tutorial](https://jonking93.github.io/Github-Tutorial-Workshop/workshop/welcome). Jonathan took this course as a graduate student. 
@@ -60,7 +62,7 @@ You are welcome to use any of this material, so long as it is for non-commercial
 
 ## Resources
 
-This course is designed to open up the blackbox and reveal the '[big pile of linear algebra](https://xkcd.com/1838/)' inside.  But of course there are many existing packages that can perform the analyses done here and extension of these in additional dimensions and applications.  Here are just a few you might find useful:
+This course is designed to open up statistical black boxes and reveal the '[big pile of linear algebra](https://xkcd.com/1838/)' inside.  But of course there are many existing packages that can perform the analyses done in this class and extensions of these in additional dimensions and other applications.  Here are just a few you might find useful:
 
 * [cf-array](https://github.com/xarray-contrib/cf-xarray) - a wrapper for using [CF](https://cfconventions.org/cf-conventions/cf-conventions.html) attributes on xarray objects
 * [scikit-learn](https://scikit-learn.org/stable/index.html) - has methods for PCA, CCA, imputation, independent component analysis (ICA), and much much more
@@ -79,4 +81,4 @@ This course is designed to open up the blackbox and reveal the '[big pile of lin
 
 ## Contact
 
-Did you find this course material useful?  Want to share ideas?  Feel free to contact me at [kanchukaitis@arizona.edu](mailto:kanchukaitis@arizona.edu)
+Did you find this course material useful?  Want to share ideas?  Find some bugs? Feel free to contact me at [kanchukaitis@arizona.edu](mailto:kanchukaitis@arizona.edu)
