@@ -59,8 +59,8 @@ Although not strictly required for this course, I encourage you to use the capac
 ## Work in Progress
 
 * Create a virtual environment for the course and provide additional instruction on using conda environments for Python programming and analysis
-* Make course materials available in Google CoLaboratory
-* Update introductory notebooks with additional examples of programming challenges encountered in the class (based on Fall 2023 feedback and observations)
+* Make course materials available via a link in Google CoLaboratory
+* Update introductory notebooks with additional examples of specific programming challenges and staks encountered in the class (based on Fall 2023 feedback and observations)
 * Modify and refine Python homework exercises based on Fall 2023 feedback and lessons learned
 
 ## License
