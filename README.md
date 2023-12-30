@@ -37,7 +37,7 @@ My own programming career started in FORTRAN and moved to MATLAB, a language I'v
 
 [This page from DataCamp](https://www.datacamp.com/blog/how-to-install-python) contains useful and straightforward information on getting Python installed on both Windows and Mac.  
 
-[This page from Notable.io](https://noteable.io/jupyter-notebook/install-jupyter-notebook/) also provides simple instructions for getting up and running in Python and Jupyter notebooks. 
+[This page from Notable.io](https://noteable.io/jupyter-notebook/install-jupyter-notebook/) also provides simple instructions for getting up and running in Python and Jupyter notebooks (note that this website [might not be available in the near future](https://community.noteable.io/c/announcements-4da7da/noteable-is-terminating-its-platform-and-services)). 
 
 [This Youtube video](https://www.youtube.com/watch?v=h1sAzPojKMg&ab_channel=VisualStudioCode) from Visual Studio Code (the integrated coding environment we'll use in this class) can get you up and running pretty quickly. They show installation in Windows, so macOs will be slightly different.  We'll also go this **live** in class on August 24th. 
 
