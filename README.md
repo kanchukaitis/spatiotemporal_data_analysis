@@ -35,7 +35,7 @@ My own programming career started in FORTRAN and moved to MATLAB, a language I'v
 ## Recommended Software Installation 
 [Anaconda](https://www.anaconda.com/download) is a package management software that downloads a number of packages for data analysis and exploration – including base Python – but is quite large.  Since not all packages are always required, a 'lite' version of Anaconda is also available called [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/miniconda-install.html).  Miniconda gives you base Python and allows for all the Anaconda management functions, but has a much smaller initial download size and installation time because it installs few packages (which means you'll need to install some packages not included in the installation). Once installed, both Anaconda or Miniconda will be referred to (and called from the shell, terminal, or command line) simply as `conda`.
 
-[This page from DataCamp](https://www.datacamp.com/blog/how-to-install-python) contains useful and straightforward information on getting Python installed on both Windows and Mac.  It provides several options for each but I recommend using Anaconda (e.g. look for the sections with titles 'How to Install Python on Windows Using Anaconda' and 'How to Install Python on macOS Using Anaconda').
+[This page from DataCamp](https://www.datacamp.com/blog/how-to-install-python) contains useful and straightforward information on getting Python installed on both Windows and Mac.  
 
 [This page from Notable.io](https://noteable.io/jupyter-notebook/install-jupyter-notebook/) also provides simple instructions for getting up and running in Python and Jupyter notebooks. 
 
