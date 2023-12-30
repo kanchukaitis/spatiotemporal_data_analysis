@@ -7,7 +7,7 @@ This course is designed as a graduate level class in a workshop format to give s
 
 The major outcome for the class for each student will be a new and independent analysis of a substantial space-time dataset, a formal manuscript describing the motivation, methods, and results of this analysis, and a professional oral presentation.  Students are encouraged to bring with them or seek out data relevant to their research to use for their final project.  Ideally, students' final projects will provide the material for a thesis chapter and/or peer-reviewed article. 
 
-The course was inspired by and initially based on an objective analysis/spatiotemporal data analysis class taught by [Mike Evans](https://www.geol.umd.edu/~mnevans/).
+The course was inspired by and initially based on an objective analysis/spatiotemporal data analysis class taught in MATLAB by [Mike Evans](https://www.geol.umd.edu/~mnevans/).
  
 ## General Schedule
 
