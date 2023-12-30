@@ -41,7 +41,7 @@ My own programming career started in FORTRAN and moved to MATLAB, a language I'v
 
 Here are the basic steps:
 * Install Python using Miniconda (recommended for this class: https://docs.conda.io/en/main/miniconda.html) or the full individual Anaconda distribution (https://www.anaconda.com/download) for your operating system.  Both are free.  **Note that if you have an older operating system, the current versions of Miniconda might not work on your system.**  A simple comparison of the benefits and drawbacks of Anaconda vs. Miniconda can be found [here](https://www.earthdatascience.org/workshops/setup-earth-analytics-python/setup-git-bash-conda/).
-* From the newly installed Conda prompt, from within Python, or from your terminal, [install iPython](https://ipython.readthedocs.io/en/stable/install/install.html#quick-install).
+* For Windows users: from the newly installed Conda prompt or from within Python [install iPython](https://ipython.readthedocs.io/en/stable/install/install.html#quick-install).
 * Install Juypter Notebooks: https://jupyter.org/install
 * Install Visual Studio Code itself (https://code.visualstudio.com/download) for your system
 * Within Visual Studio Code, install the Python extensions (from Microsoft)
